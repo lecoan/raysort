@@ -1,5 +1,6 @@
 name: Single Node Sort Tests
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
